@@ -18,3 +18,12 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
   Using pngs and hitbox detection with the cursor I made a little game where the zombies spawn in randomly on the page for you to click away.
   ![2024-01-1000-21-56-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/fa9ae5c8-3736-4e16-81e5-d792af48f3c4)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Painting!!!1!!!1!!:**
+
+  Using a palette board on the top left of the screen click on a color and then click on the canvas to start drawing and click again to stop. You can also clear the canvas if it gets too messy.
+  ![2024-01-1000-21-56-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d6c4dc59-5d18-4978-b509-ff09cf637eb1)
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
