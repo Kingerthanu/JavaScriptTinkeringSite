@@ -28,3 +28,11 @@ This program helped me learn about bootstrap and API transactions. It also taugh
   ![2024-01-1000-21-56-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d6c4dc59-5d18-4978-b509-ff09cf637eb1)
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Rainbow Wall:**
+
+  On this page there are arrows pointing in all directions. Click one do select the way the wall will close then click the start button. It will increment across while still changing colors all the way across your screen until it covers it.
+  
+  ![2024-01-1000-21-56-ezgif com-video-to-gif-converter (2)](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/5b15ea61-6b39-45cf-ab5a-c0b83a79463d)
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
