@@ -23,7 +23,8 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 **Painting!!!1!!!1!!:**
 
-  Using a palette board on the top left of the screen click on a color and then click on the canvas to start drawing and click again to stop. You can also clear the canvas if it gets too messy.\n
+  Using a palette board on the top left of the screen click on a color and then click on the canvas to start drawing and click again to stop. You can also clear the canvas if it gets too messy.
+  
   ![2024-01-1000-21-56-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d6c4dc59-5d18-4978-b509-ff09cf637eb1)
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
