@@ -17,6 +17,7 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 **Zombie Infestation!:**
 
   Using pngs and hitbox detection with the cursor I made a little game where the zombies spawn in randomly on the page for you to click away.
+  
   ![2024-01-1000-21-56-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/fa9ae5c8-3736-4e16-81e5-d792af48f3c4)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
