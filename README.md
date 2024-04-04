@@ -5,6 +5,8 @@ Definently scrappy around the edges, but is acknowledged and understood why (I.E
 
 This program helped me learn about bootstrap and API transactions. It also taught me a good amount about javascript and how to handle a dynamic language.
 
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/42b4d279-4c11-4403-919f-8056460b9e24" alt="Cornstarch <3" width="95" height="99">
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **API Mapbox Map:**
