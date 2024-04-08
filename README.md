@@ -7,7 +7,18 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/42b4d279-4c11-4403-919f-8056460b9e24" alt="Cornstarch <3" width="95" height="99">
 
+------------------------------------------------------
+
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+**Features:**
 
 **API Mapbox Map:**
 
