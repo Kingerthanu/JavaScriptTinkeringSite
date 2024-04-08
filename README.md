@@ -9,7 +9,7 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 ------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/021fb2dc-10fc-4dfd-8885-c591a5b28af5" alt="Cornstarch <3" width="55" height="49">
 
 
 **The Breakdown:**
@@ -17,7 +17,7 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 
 
-<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49">
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,6 +29,7 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
   Using a API transaction with Mapbox I was allowed to implement it into my own website for usage.
   ![2024-01-1000-21-56-ezgif com-optimize](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/1c3abef9-728e-4d0a-a7bd-d9f403462013)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,3 +54,10 @@ This program helped me learn about bootstrap and API transactions. It also taugh
   On this page there are arrows pointing in all directions. Click one do select the way the wall will close then click the start button. It will increment across while still changing colors all the way across your screen until it covers it.
   
   ![2024-01-1000-21-56-ezgif com-video-to-gif-converter (2)](https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/5b15ea61-6b39-45cf-ab5a-c0b83a79463d)
+
+
+
+
+  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">
+
+  
