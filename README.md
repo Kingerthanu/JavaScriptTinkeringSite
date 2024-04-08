@@ -58,6 +58,6 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 
 
-  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">
+  <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">   <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/c4a5e059-fb58-4c4a-af3d-3c3b319f4b58" alt="Cornstarch <3" width="55" height="49">
 
   
