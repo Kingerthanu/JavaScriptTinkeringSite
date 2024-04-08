@@ -14,6 +14,11 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 **The Breakdown:**
 
+
+
+
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/d65b95bc-ab8c-44e9-81fb-9b5b08e7dee4" alt="Cornstarch <3" width="55" height="49">
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
