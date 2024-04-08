@@ -21,7 +21,7 @@ This program helped me learn about bootstrap and API transactions. It also taugh
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/JavaScriptTinkeringSite/assets/76754592/0166c8f3-db3f-4876-91f9-72ba492a127f" alt="Cornstarch <3" width="55" height="49">
 
 **Features:**
 
